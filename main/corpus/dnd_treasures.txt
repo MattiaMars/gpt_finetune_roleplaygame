@@ -1,0 +1,1000 @@
+Sword of the Ancients – Provides resistance to cold damage.
+Wand of Ice – Allows communication with animals.
+Cloak of Light – Can be used to teleport up to 30 feet.
+Cape of Ice – Provides immunity to poison.
+Wand of Healing – Grants the wearer temporary invisibility during combat.
+Staff of Fire – Increases Intelligence score to 19 while worn.
+Staff of Giant Strength – Grants the wearer temporary invisibility during combat.
+Cape of Shadows – Adds +1 to attack and damage rolls.
+Shield of Time – Adds +1 to attack and damage rolls.
+Ring of Shadows – Creates an aura of silence within 15 feet.
+Orb of Shadows – Can be used to teleport up to 30 feet.
+Belt of Fire – Summons a spectral beast for 1 hour.
+Wand of Healing – Allows communication with animals.
+Helm of Time – Can be used to teleport up to 30 feet.
+Ring of the Void – Restores 1d8 hit points once per short rest.
+Blade of Invisibility – Provides resistance to cold damage.
+Amulet of the Phoenix – Gives advantage on Wisdom saving throws.
+Blade of Giant Strength – Gives advantage on Wisdom saving throws.
+Orb of Light – Can be used to teleport up to 30 feet.
+Rod of Vitality – Increases movement speed by 10 feet.
+Wand of Light – Absorbs up to 20 points of magical damage.
+Boots of Vitality – Restores 1d8 hit points once per short rest.
+Sword of Healing – Absorbs up to 20 points of magical damage.
+Amulet of Light – Summons a spectral beast for 1 hour.
+Staff of Healing – Gives advantage on Wisdom saving throws.
+Orb of Fire – Absorbs up to 20 points of magical damage.
+Armor of Light – Allows the user to cast Fireball once per day.
+Belt of the Phoenix – Provides resistance to cold damage.
+Shield of Healing – Allows communication with animals.
+Gloves of the Magi – Allows communication with animals.
+Shield of Giant Strength – Restores 1d8 hit points once per short rest.
+Belt of Giant Strength – Gives advantage on Wisdom saving throws.
+Cloak of the Ancients – Grants the wearer temporary invisibility during combat.
+Tome of the Void – Can be used to teleport up to 30 feet.
+Gloves of the Phoenix – Can be used to teleport up to 30 feet.
+Shield of the Void – Increases Intelligence score to 19 while worn.
+Armor of Healing – Provides resistance to cold damage.
+Scroll of Invisibility – Emits a dim light in a 10-foot radius.
+Helm of Time – Allows the user to cast Fireball once per day.
+Cloak of Fire – Allows communication with animals.
+Gem of the Phoenix – Provides immunity to poison.
+Cloak of Speed – Can be used to teleport up to 30 feet.
+Shield of the Phoenix – Increases Intelligence score to 19 while worn.
+Wand of Giant Strength – Provides resistance to cold damage.
+Tome of Ice – Grants the wearer temporary invisibility during combat.
+Helm of the Void – Absorbs up to 20 points of magical damage.
+Orb of Light – Gives advantage on Wisdom saving throws.
+Cape of Giant Strength – Absorbs up to 20 points of magical damage.
+Gloves of Shadows – Allows the user to cast Fireball once per day.
+Boots of Healing – Absorbs up to 20 points of magical damage.
+Helm of Giant Strength – Provides immunity to poison.
+Sword of Healing – Grants the wearer temporary invisibility during combat.
+Armor of Light – Provides immunity to poison.
+Rod of Ice – Adds +1 to attack and damage rolls.
+Staff of the Phoenix – Absorbs up to 20 points of magical damage.
+Boots of the Phoenix – Restores 1d8 hit points once per short rest.
+Boots of Shadows – Provides immunity to poison.
+Belt of Vitality – Grants the wearer temporary invisibility during combat.
+Orb of Speed – Provides resistance to cold damage.
+Helm of Shadows – Emits a dim light in a 10-foot radius.
+Gem of Healing – Provides immunity to poison.
+Boots of Fire – Allows communication with animals.
+Wand of Speed – Allows communication with animals.
+Scroll of Time – Absorbs up to 20 points of magical damage.
+Gloves of the Magi – Emits a dim light in a 10-foot radius.
+Cloak of Shadows – Provides immunity to poison.
+Staff of the Void – Summons a spectral beast for 1 hour.
+Rod of the Magi – Increases movement speed by 10 feet.
+Staff of Time – Adds +1 to attack and damage rolls.
+Potion of Healing – Creates an aura of silence within 15 feet.
+Belt of Fire – Restores 1d8 hit points once per short rest.
+Gem of the Phoenix – Can be used to teleport up to 30 feet.
+Belt of Speed – Adds +1 to attack and damage rolls.
+Cloak of Light – Grants the wearer temporary invisibility during combat.
+Orb of Invisibility – Gives advantage on Wisdom saving throws.
+Sword of Ice – Provides resistance to cold damage.
+Cloak of the Magi – Absorbs up to 20 points of magical damage.
+Ring of Fire – Summons a spectral beast for 1 hour.
+Sword of Speed – Provides resistance to cold damage.
+Armor of Fire – Emits a dim light in a 10-foot radius.
+Boots of Giant Strength – Summons a spectral beast for 1 hour.
+Belt of Healing – Summons a spectral beast for 1 hour.
+Gem of Healing – Provides resistance to cold damage.
+Gem of Giant Strength – Allows communication with animals.
+Sword of the Magi – Increases Intelligence score to 19 while worn.
+Wand of Fire – Absorbs up to 20 points of magical damage.
+Armor of Light – Adds +1 to attack and damage rolls.
+Wand of the Phoenix – Adds +1 to attack and damage rolls.
+Shield of Giant Strength – Summons a spectral beast for 1 hour.
+Gloves of Healing – Allows communication with animals.
+Helm of the Ancients – Absorbs up to 20 points of magical damage.
+Blade of Invisibility – Increases Intelligence score to 19 while worn.
+Blade of Light – Emits a dim light in a 10-foot radius.
+Amulet of Time – Gives advantage on Wisdom saving throws.
+Amulet of the Phoenix – Provides resistance to cold damage.
+Shield of Speed – Creates an aura of silence within 15 feet.
+Blade of Healing – Gives advantage on Wisdom saving throws.
+Boots of the Void – Increases Intelligence score to 19 while worn.
+Tome of Speed – Provides immunity to poison.
+Helm of Vitality – Summons a spectral beast for 1 hour.
+Cape of Vitality – Adds +1 to attack and damage rolls.
+Shield of Shadows – Provides immunity to poison.
+Belt of Ice – Allows the user to cast Fireball once per day.
+Rod of Shadows – Creates an aura of silence within 15 feet.
+Gloves of the Void – Provides resistance to cold damage.
+Staff of Fire – Creates an aura of silence within 15 feet.
+Belt of Healing – Provides immunity to poison.
+Helm of Healing – Allows communication with animals.
+Blade of Vitality – Creates an aura of silence within 15 feet.
+Cape of Ice – Grants the wearer temporary invisibility during combat.
+Potion of the Void – Summons a spectral beast for 1 hour.
+Gloves of Time – Adds +1 to attack and damage rolls.
+Wand of Ice – Gives advantage on Wisdom saving throws.
+Cloak of Giant Strength – Creates an aura of silence within 15 feet.
+Blade of the Phoenix – Provides immunity to poison.
+Cloak of Speed – Gives advantage on Wisdom saving throws.
+Rod of Invisibility – Provides immunity to poison.
+Cape of the Ancients – Allows communication with animals.
+Gloves of Invisibility – Provides immunity to poison.
+Potion of the Ancients – Adds +1 to attack and damage rolls.
+Staff of Giant Strength – Provides immunity to poison.
+Belt of the Magi – Increases Intelligence score to 19 while worn.
+Shield of Time – Absorbs up to 20 points of magical damage.
+Belt of Fire – Summons a spectral beast for 1 hour.
+Cape of Giant Strength – Adds +1 to attack and damage rolls.
+Potion of the Phoenix – Restores 1d8 hit points once per short rest.
+Belt of Healing – Increases movement speed by 10 feet.
+Orb of Light – Gives advantage on Wisdom saving throws.
+Cape of Light – Can be used to teleport up to 30 feet.
+Rod of the Phoenix – Provides resistance to cold damage.
+Blade of the Void – Grants the wearer temporary invisibility during combat.
+Tome of the Magi – Allows the user to cast Fireball once per day.
+Rod of the Phoenix – Restores 1d8 hit points once per short rest.
+Scroll of the Void – Creates an aura of silence within 15 feet.
+Tome of Giant Strength – Grants the wearer temporary invisibility during combat.
+Ring of Speed – Creates an aura of silence within 15 feet.
+Rod of Light – Increases movement speed by 10 feet.
+Staff of the Phoenix – Allows communication with animals.
+Cape of Speed – Grants the wearer temporary invisibility during combat.
+Potion of Speed – Grants the wearer temporary invisibility during combat.
+Cloak of Time – Allows communication with animals.
+Scroll of Vitality – Provides resistance to cold damage.
+Belt of Giant Strength – Emits a dim light in a 10-foot radius.
+Scroll of Invisibility – Provides immunity to poison.
+Rod of the Phoenix – Summons a spectral beast for 1 hour.
+Ring of Light – Can be used to teleport up to 30 feet.
+Gem of Light – Allows communication with animals.
+Potion of Light – Provides immunity to poison.
+Rod of Light – Summons a spectral beast for 1 hour.
+Gem of Time – Summons a spectral beast for 1 hour.
+Shield of Shadows – Absorbs up to 20 points of magical damage.
+Belt of Fire – Increases Intelligence score to 19 while worn.
+Gem of Ice – Restores 1d8 hit points once per short rest.
+Shield of Invisibility – Absorbs up to 20 points of magical damage.
+Armor of Time – Increases Intelligence score to 19 while worn.
+Rod of Giant Strength – Provides immunity to poison.
+Rod of Speed – Increases movement speed by 10 feet.
+Tome of the Void – Provides resistance to cold damage.
+Tome of the Magi – Creates an aura of silence within 15 feet.
+Staff of the Phoenix – Absorbs up to 20 points of magical damage.
+Gem of Vitality – Allows communication with animals.
+Gloves of Light – Adds +1 to attack and damage rolls.
+Sword of Giant Strength – Allows communication with animals.
+Cape of the Magi – Absorbs up to 20 points of magical damage.
+Gloves of Light – Creates an aura of silence within 15 feet.
+Amulet of Ice – Increases movement speed by 10 feet.
+Sword of Invisibility – Summons a spectral beast for 1 hour.
+Ring of Fire – Summons a spectral beast for 1 hour.
+Belt of the Ancients – Grants the wearer temporary invisibility during combat.
+Amulet of Shadows – Allows communication with animals.
+Boots of Speed – Can be used to teleport up to 30 feet.
+Orb of Light – Allows the user to cast Fireball once per day.
+Potion of the Void – Gives advantage on Wisdom saving throws.
+Helm of Fire – Can be used to teleport up to 30 feet.
+Ring of the Phoenix – Grants the wearer temporary invisibility during combat.
+Wand of Healing – Gives advantage on Wisdom saving throws.
+Shield of Shadows – Increases Intelligence score to 19 while worn.
+Orb of the Magi – Provides immunity to poison.
+Potion of Vitality – Absorbs up to 20 points of magical damage.
+Staff of Time – Emits a dim light in a 10-foot radius.
+Blade of Time – Adds +1 to attack and damage rolls.
+Tome of Vitality – Creates an aura of silence within 15 feet.
+Armor of Ice – Emits a dim light in a 10-foot radius.
+Gloves of Time – Restores 1d8 hit points once per short rest.
+Wand of the Magi – Summons a spectral beast for 1 hour.
+Wand of Giant Strength – Absorbs up to 20 points of magical damage.
+Potion of the Phoenix – Allows the user to cast Fireball once per day.
+Boots of Invisibility – Increases movement speed by 10 feet.
+Ring of Time – Can be used to teleport up to 30 feet.
+Rod of Shadows – Adds +1 to attack and damage rolls.
+Armor of Healing – Provides immunity to poison.
+Amulet of the Ancients – Can be used to teleport up to 30 feet.
+Cape of Ice – Increases movement speed by 10 feet.
+Blade of Healing – Increases movement speed by 10 feet.
+Gem of Light – Absorbs up to 20 points of magical damage.
+Ring of the Ancients – Emits a dim light in a 10-foot radius.
+Ring of Fire – Increases movement speed by 10 feet.
+Orb of Time – Absorbs up to 20 points of magical damage.
+Ring of Vitality – Summons a spectral beast for 1 hour.
+Tome of Vitality – Grants the wearer temporary invisibility during combat.
+Potion of the Ancients – Restores 1d8 hit points once per short rest.
+Potion of the Void – Adds +1 to attack and damage rolls.
+Ring of Shadows – Restores 1d8 hit points once per short rest.
+Amulet of Fire – Increases movement speed by 10 feet.
+Ring of the Phoenix – Can be used to teleport up to 30 feet.
+Rod of Invisibility – Allows the user to cast Fireball once per day.
+Tome of the Magi – Gives advantage on Wisdom saving throws.
+Tome of Ice – Restores 1d8 hit points once per short rest.
+Staff of the Phoenix – Can be used to teleport up to 30 feet.
+Boots of Invisibility – Provides resistance to cold damage.
+Cloak of the Void – Allows the user to cast Fireball once per day.
+Blade of Invisibility – Allows the user to cast Fireball once per day.
+Blade of Light – Gives advantage on Wisdom saving throws.
+Rod of Fire – Allows communication with animals.
+Gloves of Fire – Emits a dim light in a 10-foot radius.
+Cloak of Fire – Summons a spectral beast for 1 hour.
+Armor of Time – Provides resistance to cold damage.
+Gem of Shadows – Increases movement speed by 10 feet.
+Scroll of Time – Emits a dim light in a 10-foot radius.
+Cloak of Vitality – Provides resistance to cold damage.
+Belt of Giant Strength – Absorbs up to 20 points of magical damage.
+Tome of Fire – Restores 1d8 hit points once per short rest.
+Belt of Light – Absorbs up to 20 points of magical damage.
+Scroll of Speed – Emits a dim light in a 10-foot radius.
+Wand of Giant Strength – Increases movement speed by 10 feet.
+Helm of Giant Strength – Summons a spectral beast for 1 hour.
+Cape of Vitality – Allows the user to cast Fireball once per day.
+Armor of the Magi – Provides immunity to poison.
+Shield of Giant Strength – Grants the wearer temporary invisibility during combat.
+Cloak of Shadows – Gives advantage on Wisdom saving throws.
+Gloves of Vitality – Gives advantage on Wisdom saving throws.
+Staff of Fire – Allows the user to cast Fireball once per day.
+Boots of Time – Increases Intelligence score to 19 while worn.
+Rod of the Magi – Allows communication with animals.
+Orb of Ice – Can be used to teleport up to 30 feet.
+Tome of Time – Adds +1 to attack and damage rolls.
+Amulet of Invisibility – Summons a spectral beast for 1 hour.
+Orb of the Void – Allows communication with animals.
+Cape of Speed – Restores 1d8 hit points once per short rest.
+Gem of the Void – Gives advantage on Wisdom saving throws.
+Rod of the Ancients – Grants the wearer temporary invisibility during combat.
+Scroll of Time – Grants the wearer temporary invisibility during combat.
+Cape of Giant Strength – Grants the wearer temporary invisibility during combat.
+Gem of Healing – Increases movement speed by 10 feet.
+Belt of Invisibility – Provides resistance to cold damage.
+Potion of Healing – Provides resistance to cold damage.
+Gem of Giant Strength – Increases movement speed by 10 feet.
+Sword of Healing – Allows communication with animals.
+Boots of Fire – Increases Intelligence score to 19 while worn.
+Cape of Fire – Creates an aura of silence within 15 feet.
+Armor of the Ancients – Provides immunity to poison.
+Helm of Time – Allows communication with animals.
+Scroll of the Phoenix – Emits a dim light in a 10-foot radius.
+Armor of Ice – Creates an aura of silence within 15 feet.
+Staff of the Ancients – Grants the wearer temporary invisibility during combat.
+Staff of Healing – Gives advantage on Wisdom saving throws.
+Sword of the Magi – Creates an aura of silence within 15 feet.
+Orb of the Phoenix – Provides resistance to cold damage.
+Ring of Invisibility – Allows the user to cast Fireball once per day.
+Blade of Time – Gives advantage on Wisdom saving throws.
+Ring of the Magi – Restores 1d8 hit points once per short rest.
+Boots of the Phoenix – Increases movement speed by 10 feet.
+Tome of Speed – Restores 1d8 hit points once per short rest.
+Amulet of Fire – Grants the wearer temporary invisibility during combat.
+Scroll of Vitality – Emits a dim light in a 10-foot radius.
+Blade of the Ancients – Emits a dim light in a 10-foot radius.
+Cape of the Magi – Creates an aura of silence within 15 feet.
+Cloak of Giant Strength – Creates an aura of silence within 15 feet.
+Cloak of the Phoenix – Restores 1d8 hit points once per short rest.
+Potion of the Void – Can be used to teleport up to 30 feet.
+Blade of Fire – Adds +1 to attack and damage rolls.
+Shield of Ice – Grants the wearer temporary invisibility during combat.
+Rod of Giant Strength – Provides immunity to poison.
+Gem of Time – Can be used to teleport up to 30 feet.
+Blade of Time – Summons a spectral beast for 1 hour.
+Tome of Fire – Increases movement speed by 10 feet.
+Ring of Light – Increases Intelligence score to 19 while worn.
+Armor of Healing – Creates an aura of silence within 15 feet.
+Rod of Healing – Increases movement speed by 10 feet.
+Rod of Giant Strength – Adds +1 to attack and damage rolls.
+Staff of Light – Grants the wearer temporary invisibility during combat.
+Gem of Shadows – Provides resistance to cold damage.
+Gloves of Time – Provides resistance to cold damage.
+Belt of Shadows – Gives advantage on Wisdom saving throws.
+Ring of Healing – Increases movement speed by 10 feet.
+Helm of the Magi – Adds +1 to attack and damage rolls.
+Tome of Light – Creates an aura of silence within 15 feet.
+Gem of Shadows – Grants the wearer temporary invisibility during combat.
+Gloves of Giant Strength – Creates an aura of silence within 15 feet.
+Staff of Shadows – Allows communication with animals.
+Orb of Speed – Grants the wearer temporary invisibility during combat.
+Ring of Healing – Restores 1d8 hit points once per short rest.
+Cape of Speed – Increases Intelligence score to 19 while worn.
+Amulet of Invisibility – Increases movement speed by 10 feet.
+Ring of Ice – Restores 1d8 hit points once per short rest.
+Helm of Time – Provides resistance to cold damage.
+Orb of Invisibility – Increases movement speed by 10 feet.
+Rod of Time – Absorbs up to 20 points of magical damage.
+Ring of Healing – Creates an aura of silence within 15 feet.
+Potion of Fire – Creates an aura of silence within 15 feet.
+Tome of Light – Grants the wearer temporary invisibility during combat.
+Gloves of Light – Increases movement speed by 10 feet.
+Shield of Ice – Emits a dim light in a 10-foot radius.
+Helm of the Magi – Provides immunity to poison.
+Rod of Ice – Emits a dim light in a 10-foot radius.
+Ring of Time – Absorbs up to 20 points of magical damage.
+Potion of Fire – Increases Intelligence score to 19 while worn.
+Amulet of the Ancients – Provides immunity to poison.
+Helm of the Magi – Absorbs up to 20 points of magical damage.
+Belt of the Void – Provides resistance to cold damage.
+Staff of Shadows – Can be used to teleport up to 30 feet.
+Wand of the Ancients – Absorbs up to 20 points of magical damage.
+Cloak of the Phoenix – Adds +1 to attack and damage rolls.
+Amulet of Healing – Increases Intelligence score to 19 while worn.
+Potion of Ice – Provides immunity to poison.
+Boots of Vitality – Restores 1d8 hit points once per short rest.
+Sword of the Void – Summons a spectral beast for 1 hour.
+Ring of the Void – Emits a dim light in a 10-foot radius.
+Boots of Invisibility – Allows the user to cast Fireball once per day.
+Amulet of Fire – Emits a dim light in a 10-foot radius.
+Cloak of the Phoenix – Allows the user to cast Fireball once per day.
+Wand of Light – Gives advantage on Wisdom saving throws.
+Ring of Giant Strength – Summons a spectral beast for 1 hour.
+Scroll of Giant Strength – Restores 1d8 hit points once per short rest.
+Ring of Fire – Can be used to teleport up to 30 feet.
+Shield of Speed – Increases Intelligence score to 19 while worn.
+Blade of the Phoenix – Summons a spectral beast for 1 hour.
+Amulet of Invisibility – Restores 1d8 hit points once per short rest.
+Shield of the Magi – Absorbs up to 20 points of magical damage.
+Wand of Giant Strength – Provides immunity to poison.
+Rod of Speed – Can be used to teleport up to 30 feet.
+Tome of Light – Grants the wearer temporary invisibility during combat.
+Blade of the Ancients – Adds +1 to attack and damage rolls.
+Amulet of Light – Emits a dim light in a 10-foot radius.
+Scroll of the Phoenix – Allows communication with animals.
+Armor of Speed – Grants the wearer temporary invisibility during combat.
+Orb of Time – Can be used to teleport up to 30 feet.
+Ring of Giant Strength – Allows the user to cast Fireball once per day.
+Cape of Invisibility – Allows the user to cast Fireball once per day.
+Sword of Time – Increases movement speed by 10 feet.
+Helm of the Magi – Provides immunity to poison.
+Cloak of Speed – Absorbs up to 20 points of magical damage.
+Sword of Giant Strength – Creates an aura of silence within 15 feet.
+Potion of Time – Provides resistance to cold damage.
+Orb of the Magi – Grants the wearer temporary invisibility during combat.
+Wand of Invisibility – Allows the user to cast Fireball once per day.
+Tome of Ice – Increases movement speed by 10 feet.
+Gem of Giant Strength – Provides resistance to cold damage.
+Helm of the Ancients – Emits a dim light in a 10-foot radius.
+Boots of Shadows – Increases movement speed by 10 feet.
+Rod of Vitality – Adds +1 to attack and damage rolls.
+Gem of Ice – Restores 1d8 hit points once per short rest.
+Boots of Shadows – Provides resistance to cold damage.
+Ring of Speed – Restores 1d8 hit points once per short rest.
+Tome of Giant Strength – Allows the user to cast Fireball once per day.
+Gem of Invisibility – Restores 1d8 hit points once per short rest.
+Shield of Speed – Provides resistance to cold damage.
+Gloves of the Void – Provides resistance to cold damage.
+Cloak of the Phoenix – Provides resistance to cold damage.
+Gloves of Giant Strength – Provides resistance to cold damage.
+Potion of Vitality – Increases Intelligence score to 19 while worn.
+Cape of Shadows – Restores 1d8 hit points once per short rest.
+Potion of the Void – Provides immunity to poison.
+Blade of Invisibility – Adds +1 to attack and damage rolls.
+Staff of Vitality – Increases Intelligence score to 19 while worn.
+Wand of Light – Absorbs up to 20 points of magical damage.
+Rod of the Ancients – Allows communication with animals.
+Scroll of Ice – Absorbs up to 20 points of magical damage.
+Shield of Shadows – Summons a spectral beast for 1 hour.
+Orb of Light – Can be used to teleport up to 30 feet.
+Amulet of Ice – Restores 1d8 hit points once per short rest.
+Belt of Giant Strength – Restores 1d8 hit points once per short rest.
+Helm of Speed – Summons a spectral beast for 1 hour.
+Sword of the Ancients – Restores 1d8 hit points once per short rest.
+Cape of Fire – Creates an aura of silence within 15 feet.
+Potion of Shadows – Creates an aura of silence within 15 feet.
+Helm of Giant Strength – Increases movement speed by 10 feet.
+Rod of the Magi – Allows communication with animals.
+Ring of Ice – Gives advantage on Wisdom saving throws.
+Helm of the Phoenix – Grants the wearer temporary invisibility during combat.
+Belt of Invisibility – Absorbs up to 20 points of magical damage.
+Scroll of the Void – Increases movement speed by 10 feet.
+Armor of the Magi – Absorbs up to 20 points of magical damage.
+Gem of Fire – Summons a spectral beast for 1 hour.
+Staff of the Magi – Emits a dim light in a 10-foot radius.
+Amulet of Shadows – Increases Intelligence score to 19 while worn.
+Potion of Time – Emits a dim light in a 10-foot radius.
+Scroll of Time – Grants the wearer temporary invisibility during combat.
+Cape of the Void – Increases movement speed by 10 feet.
+Potion of the Phoenix – Provides resistance to cold damage.
+Helm of Giant Strength – Increases Intelligence score to 19 while worn.
+Armor of the Phoenix – Adds +1 to attack and damage rolls.
+Potion of Light – Grants the wearer temporary invisibility during combat.
+Amulet of Giant Strength – Absorbs up to 20 points of magical damage.
+Ring of the Magi – Allows communication with animals.
+Gloves of Speed – Emits a dim light in a 10-foot radius.
+Shield of Speed – Grants the wearer temporary invisibility during combat.
+Ring of the Ancients – Gives advantage on Wisdom saving throws.
+Blade of the Phoenix – Adds +1 to attack and damage rolls.
+Armor of the Phoenix – Adds +1 to attack and damage rolls.
+Shield of Fire – Emits a dim light in a 10-foot radius.
+Helm of the Void – Allows the user to cast Fireball once per day.
+Potion of the Void – Restores 1d8 hit points once per short rest.
+Boots of the Magi – Increases movement speed by 10 feet.
+Wand of Vitality – Allows the user to cast Fireball once per day.
+Tome of Shadows – Absorbs up to 20 points of magical damage.
+Sword of Healing – Allows communication with animals.
+Gloves of Ice – Increases Intelligence score to 19 while worn.
+Helm of the Ancients – Grants the wearer temporary invisibility during combat.
+Gem of Healing – Allows communication with animals.
+Staff of Light – Adds +1 to attack and damage rolls.
+Cape of Time – Adds +1 to attack and damage rolls.
+Boots of Time – Gives advantage on Wisdom saving throws.
+Ring of Healing – Provides immunity to poison.
+Scroll of Ice – Grants the wearer temporary invisibility during combat.
+Blade of Time – Grants the wearer temporary invisibility during combat.
+Staff of Healing – Creates an aura of silence within 15 feet.
+Helm of Shadows – Absorbs up to 20 points of magical damage.
+Orb of Invisibility – Increases movement speed by 10 feet.
+Staff of the Phoenix – Creates an aura of silence within 15 feet.
+Rod of Light – Adds +1 to attack and damage rolls.
+Shield of the Magi – Increases Intelligence score to 19 while worn.
+Shield of Fire – Allows communication with animals.
+Cape of the Void – Restores 1d8 hit points once per short rest.
+Cloak of Light – Emits a dim light in a 10-foot radius.
+Orb of the Magi – Can be used to teleport up to 30 feet.
+Staff of Ice – Absorbs up to 20 points of magical damage.
+Gloves of Fire – Provides resistance to cold damage.
+Orb of the Ancients – Increases movement speed by 10 feet.
+Gloves of the Void – Provides resistance to cold damage.
+Tome of Time – Can be used to teleport up to 30 feet.
+Amulet of the Magi – Provides resistance to cold damage.
+Helm of Vitality – Allows communication with animals.
+Shield of Healing – Increases Intelligence score to 19 while worn.
+Armor of the Void – Provides resistance to cold damage.
+Amulet of Invisibility – Provides immunity to poison.
+Scroll of the Void – Emits a dim light in a 10-foot radius.
+Gloves of Ice – Provides immunity to poison.
+Helm of Healing – Increases movement speed by 10 feet.
+Ring of Fire – Grants the wearer temporary invisibility during combat.
+Scroll of Fire – Allows the user to cast Fireball once per day.
+Belt of Fire – Absorbs up to 20 points of magical damage.
+Cloak of Shadows – Provides resistance to cold damage.
+Wand of Speed – Restores 1d8 hit points once per short rest.
+Helm of Vitality – Allows the user to cast Fireball once per day.
+Orb of Invisibility – Increases movement speed by 10 feet.
+Gem of Ice – Adds +1 to attack and damage rolls.
+Orb of the Void – Allows the user to cast Fireball once per day.
+Sword of the Void – Absorbs up to 20 points of magical damage.
+Cloak of Speed – Allows the user to cast Fireball once per day.
+Staff of the Phoenix – Can be used to teleport up to 30 feet.
+Potion of Time – Restores 1d8 hit points once per short rest.
+Belt of Speed – Provides resistance to cold damage.
+Ring of the Magi – Adds +1 to attack and damage rolls.
+Staff of Giant Strength – Creates an aura of silence within 15 feet.
+Potion of Giant Strength – Allows the user to cast Fireball once per day.
+Amulet of Light – Summons a spectral beast for 1 hour.
+Amulet of Speed – Grants the wearer temporary invisibility during combat.
+Rod of Giant Strength – Allows communication with animals.
+Boots of Healing – Absorbs up to 20 points of magical damage.
+Blade of Healing – Can be used to teleport up to 30 feet.
+Belt of Giant Strength – Can be used to teleport up to 30 feet.
+Gloves of Light – Provides resistance to cold damage.
+Staff of the Ancients – Grants the wearer temporary invisibility during combat.
+Amulet of Speed – Absorbs up to 20 points of magical damage.
+Armor of Speed – Absorbs up to 20 points of magical damage.
+Helm of Healing – Creates an aura of silence within 15 feet.
+Belt of Ice – Can be used to teleport up to 30 feet.
+Armor of Speed – Provides resistance to cold damage.
+Blade of the Magi – Increases Intelligence score to 19 while worn.
+Potion of Light – Increases movement speed by 10 feet.
+Scroll of Speed – Adds +1 to attack and damage rolls.
+Boots of Speed – Provides immunity to poison.
+Wand of Light – Creates an aura of silence within 15 feet.
+Shield of Invisibility – Grants the wearer temporary invisibility during combat.
+Sword of the Ancients – Increases movement speed by 10 feet.
+Gem of the Ancients – Adds +1 to attack and damage rolls.
+Orb of the Ancients – Increases movement speed by 10 feet.
+Cape of Time – Summons a spectral beast for 1 hour.
+Belt of Light – Absorbs up to 20 points of magical damage.
+Rod of Speed – Emits a dim light in a 10-foot radius.
+Wand of Giant Strength – Adds +1 to attack and damage rolls.
+Cloak of the Ancients – Increases movement speed by 10 feet.
+Blade of the Void – Provides immunity to poison.
+Scroll of the Ancients – Grants the wearer temporary invisibility during combat.
+Helm of Giant Strength – Emits a dim light in a 10-foot radius.
+Tome of Shadows – Can be used to teleport up to 30 feet.
+Gloves of the Magi – Grants the wearer temporary invisibility during combat.
+Wand of Fire – Increases movement speed by 10 feet.
+Amulet of the Magi – Allows communication with animals.
+Belt of Fire – Allows communication with animals.
+Rod of Vitality – Emits a dim light in a 10-foot radius.
+Boots of the Void – Emits a dim light in a 10-foot radius.
+Gloves of the Phoenix – Gives advantage on Wisdom saving throws.
+Scroll of the Ancients – Increases Intelligence score to 19 while worn.
+Wand of Invisibility – Emits a dim light in a 10-foot radius.
+Amulet of Vitality – Grants the wearer temporary invisibility during combat.
+Orb of Time – Increases movement speed by 10 feet.
+Orb of the Phoenix – Gives advantage on Wisdom saving throws.
+Sword of Time – Provides immunity to poison.
+Tome of Healing – Grants the wearer temporary invisibility during combat.
+Armor of the Void – Increases movement speed by 10 feet.
+Cloak of Speed – Can be used to teleport up to 30 feet.
+Cloak of the Magi – Adds +1 to attack and damage rolls.
+Tome of Vitality – Allows the user to cast Fireball once per day.
+Rod of the Void – Adds +1 to attack and damage rolls.
+Armor of the Phoenix – Allows communication with animals.
+Wand of Shadows – Provides immunity to poison.
+Potion of Time – Grants the wearer temporary invisibility during combat.
+Boots of Healing – Creates an aura of silence within 15 feet.
+Potion of Ice – Emits a dim light in a 10-foot radius.
+Gloves of Light – Adds +1 to attack and damage rolls.
+Belt of the Magi – Creates an aura of silence within 15 feet.
+Blade of Time – Provides resistance to cold damage.
+Rod of Healing – Summons a spectral beast for 1 hour.
+Gloves of the Magi – Allows the user to cast Fireball once per day.
+Scroll of the Void – Gives advantage on Wisdom saving throws.
+Orb of Speed – Provides resistance to cold damage.
+Boots of Shadows – Summons a spectral beast for 1 hour.
+Cloak of Light – Provides immunity to poison.
+Belt of Invisibility – Allows the user to cast Fireball once per day.
+Shield of the Ancients – Provides resistance to cold damage.
+Ring of Shadows – Provides resistance to cold damage.
+Orb of the Phoenix – Grants the wearer temporary invisibility during combat.
+Scroll of Time – Grants the wearer temporary invisibility during combat.
+Tome of Time – Creates an aura of silence within 15 feet.
+Helm of Giant Strength – Absorbs up to 20 points of magical damage.
+Shield of Shadows – Increases Intelligence score to 19 while worn.
+Sword of the Magi – Restores 1d8 hit points once per short rest.
+Wand of Ice – Restores 1d8 hit points once per short rest.
+Scroll of the Magi – Restores 1d8 hit points once per short rest.
+Helm of Fire – Provides resistance to cold damage.
+Helm of Vitality – Allows communication with animals.
+Staff of the Phoenix – Adds +1 to attack and damage rolls.
+Amulet of Fire – Increases movement speed by 10 feet.
+Gloves of Light – Restores 1d8 hit points once per short rest.
+Rod of the Phoenix – Allows the user to cast Fireball once per day.
+Sword of the Void – Provides resistance to cold damage.
+Belt of Ice – Grants the wearer temporary invisibility during combat.
+Armor of the Ancients – Emits a dim light in a 10-foot radius.
+Gloves of Speed – Creates an aura of silence within 15 feet.
+Shield of the Void – Absorbs up to 20 points of magical damage.
+Tome of Light – Allows the user to cast Fireball once per day.
+Ring of Ice – Increases movement speed by 10 feet.
+Belt of Speed – Grants the wearer temporary invisibility during combat.
+Scroll of the Void – Allows communication with animals.
+Scroll of Ice – Allows the user to cast Fireball once per day.
+Boots of Healing – Adds +1 to attack and damage rolls.
+Boots of Speed – Provides resistance to cold damage.
+Helm of the Void – Can be used to teleport up to 30 feet.
+Cloak of the Phoenix – Gives advantage on Wisdom saving throws.
+Cape of Invisibility – Provides immunity to poison.
+Cloak of Speed – Adds +1 to attack and damage rolls.
+Cape of Time – Increases movement speed by 10 feet.
+Wand of the Phoenix – Gives advantage on Wisdom saving throws.
+Tome of Vitality – Increases movement speed by 10 feet.
+Shield of Vitality – Emits a dim light in a 10-foot radius.
+Gem of the Ancients – Creates an aura of silence within 15 feet.
+Armor of Shadows – Summons a spectral beast for 1 hour.
+Boots of the Phoenix – Emits a dim light in a 10-foot radius.
+Tome of Shadows – Provides resistance to cold damage.
+Armor of Giant Strength – Restores 1d8 hit points once per short rest.
+Tome of the Magi – Creates an aura of silence within 15 feet.
+Amulet of the Ancients – Summons a spectral beast for 1 hour.
+Cape of Giant Strength – Provides immunity to poison.
+Shield of Ice – Summons a spectral beast for 1 hour.
+Staff of Light – Increases Intelligence score to 19 while worn.
+Sword of Giant Strength – Allows the user to cast Fireball once per day.
+Wand of Giant Strength – Grants the wearer temporary invisibility during combat.
+Amulet of Time – Grants the wearer temporary invisibility during combat.
+Helm of the Void – Increases Intelligence score to 19 while worn.
+Wand of the Phoenix – Summons a spectral beast for 1 hour.
+Wand of Light – Absorbs up to 20 points of magical damage.
+Cape of the Magi – Increases movement speed by 10 feet.
+Ring of the Phoenix – Increases movement speed by 10 feet.
+Armor of Shadows – Grants the wearer temporary invisibility during combat.
+Wand of Light – Provides resistance to cold damage.
+Amulet of Giant Strength – Restores 1d8 hit points once per short rest.
+Shield of Light – Creates an aura of silence within 15 feet.
+Gloves of Ice – Absorbs up to 20 points of magical damage.
+Scroll of Speed – Restores 1d8 hit points once per short rest.
+Gloves of Shadows – Allows the user to cast Fireball once per day.
+Shield of Invisibility – Summons a spectral beast for 1 hour.
+Cloak of the Ancients – Provides immunity to poison.
+Rod of Shadows – Gives advantage on Wisdom saving throws.
+Cape of Time – Restores 1d8 hit points once per short rest.
+Gem of the Phoenix – Gives advantage on Wisdom saving throws.
+Rod of Fire – Gives advantage on Wisdom saving throws.
+Blade of Shadows – Increases movement speed by 10 feet.
+Belt of the Void – Grants the wearer temporary invisibility during combat.
+Gloves of the Magi – Provides immunity to poison.
+Cape of the Phoenix – Allows communication with animals.
+Belt of Ice – Grants the wearer temporary invisibility during combat.
+Gem of Invisibility – Provides immunity to poison.
+Helm of the Magi – Gives advantage on Wisdom saving throws.
+Potion of the Void – Creates an aura of silence within 15 feet.
+Scroll of Shadows – Provides immunity to poison.
+Helm of the Phoenix – Creates an aura of silence within 15 feet.
+Amulet of the Phoenix – Absorbs up to 20 points of magical damage.
+Amulet of Ice – Increases Intelligence score to 19 while worn.
+Belt of Healing – Adds +1 to attack and damage rolls.
+Boots of Light – Creates an aura of silence within 15 feet.
+Amulet of Invisibility – Restores 1d8 hit points once per short rest.
+Ring of Invisibility – Restores 1d8 hit points once per short rest.
+Tome of Fire – Absorbs up to 20 points of magical damage.
+Shield of the Void – Can be used to teleport up to 30 feet.
+Cape of Giant Strength – Grants the wearer temporary invisibility during combat.
+Boots of Speed – Increases Intelligence score to 19 while worn.
+Potion of the Ancients – Grants the wearer temporary invisibility during combat.
+Rod of Invisibility – Creates an aura of silence within 15 feet.
+Sword of Vitality – Restores 1d8 hit points once per short rest.
+Tome of the Void – Emits a dim light in a 10-foot radius.
+Belt of the Phoenix – Increases Intelligence score to 19 while worn.
+Orb of the Ancients – Can be used to teleport up to 30 feet.
+Staff of Invisibility – Increases movement speed by 10 feet.
+Blade of the Phoenix – Restores 1d8 hit points once per short rest.
+Tome of Time – Provides immunity to poison.
+Amulet of Light – Adds +1 to attack and damage rolls.
+Gem of Ice – Absorbs up to 20 points of magical damage.
+Wand of Light – Provides immunity to poison.
+Gem of Ice – Absorbs up to 20 points of magical damage.
+Potion of Time – Adds +1 to attack and damage rolls.
+Amulet of Time – Increases Intelligence score to 19 while worn.
+Boots of the Phoenix – Grants the wearer temporary invisibility during combat.
+Potion of Invisibility – Adds +1 to attack and damage rolls.
+Wand of Healing – Provides immunity to poison.
+Boots of Healing – Increases movement speed by 10 feet.
+Potion of Fire – Emits a dim light in a 10-foot radius.
+Ring of Ice – Provides resistance to cold damage.
+Staff of Speed – Emits a dim light in a 10-foot radius.
+Ring of Speed – Gives advantage on Wisdom saving throws.
+Helm of the Void – Restores 1d8 hit points once per short rest.
+Cloak of Ice – Adds +1 to attack and damage rolls.
+Cloak of Giant Strength – Allows communication with animals.
+Boots of Speed – Restores 1d8 hit points once per short rest.
+Gloves of Vitality – Allows the user to cast Fireball once per day.
+Helm of Invisibility – Provides immunity to poison.
+Orb of the Ancients – Creates an aura of silence within 15 feet.
+Scroll of Fire – Summons a spectral beast for 1 hour.
+Boots of Vitality – Allows the user to cast Fireball once per day.
+Cloak of Time – Summons a spectral beast for 1 hour.
+Blade of Vitality – Increases Intelligence score to 19 while worn.
+Sword of Shadows – Can be used to teleport up to 30 feet.
+Tome of Speed – Increases Intelligence score to 19 while worn.
+Cloak of the Phoenix – Increases movement speed by 10 feet.
+Scroll of the Ancients – Absorbs up to 20 points of magical damage.
+Cape of the Ancients – Creates an aura of silence within 15 feet.
+Shield of the Ancients – Provides immunity to poison.
+Scroll of Speed – Gives advantage on Wisdom saving throws.
+Boots of Giant Strength – Provides resistance to cold damage.
+Gloves of Ice – Creates an aura of silence within 15 feet.
+Amulet of Time – Summons a spectral beast for 1 hour.
+Rod of the Magi – Adds +1 to attack and damage rolls.
+Staff of Healing – Increases movement speed by 10 feet.
+Armor of Vitality – Adds +1 to attack and damage rolls.
+Cape of Invisibility – Allows the user to cast Fireball once per day.
+Cloak of Ice – Gives advantage on Wisdom saving throws.
+Sword of Fire – Allows communication with animals.
+Ring of Invisibility – Grants the wearer temporary invisibility during combat.
+Rod of Light – Restores 1d8 hit points once per short rest.
+Ring of Light – Increases Intelligence score to 19 while worn.
+Armor of the Phoenix – Adds +1 to attack and damage rolls.
+Wand of Giant Strength – Adds +1 to attack and damage rolls.
+Armor of Healing – Summons a spectral beast for 1 hour.
+Gem of Light – Increases movement speed by 10 feet.
+Armor of Time – Absorbs up to 20 points of magical damage.
+Ring of Speed – Adds +1 to attack and damage rolls.
+Tome of Healing – Increases Intelligence score to 19 while worn.
+Armor of Ice – Allows the user to cast Fireball once per day.
+Helm of Ice – Gives advantage on Wisdom saving throws.
+Sword of Invisibility – Summons a spectral beast for 1 hour.
+Cloak of the Magi – Grants the wearer temporary invisibility during combat.
+Blade of Giant Strength – Absorbs up to 20 points of magical damage.
+Tome of Giant Strength – Increases movement speed by 10 feet.
+Helm of the Magi – Absorbs up to 20 points of magical damage.
+Rod of Healing – Allows communication with animals.
+Rod of Speed – Grants the wearer temporary invisibility during combat.
+Blade of Light – Absorbs up to 20 points of magical damage.
+Cape of the Ancients – Provides resistance to cold damage.
+Wand of Shadows – Emits a dim light in a 10-foot radius.
+Helm of the Void – Absorbs up to 20 points of magical damage.
+Potion of Giant Strength – Creates an aura of silence within 15 feet.
+Gem of Invisibility – Increases Intelligence score to 19 while worn.
+Ring of Vitality – Creates an aura of silence within 15 feet.
+Gem of Time – Creates an aura of silence within 15 feet.
+Armor of Shadows – Increases Intelligence score to 19 while worn.
+Tome of Vitality – Restores 1d8 hit points once per short rest.
+Ring of Light – Provides immunity to poison.
+Shield of Shadows – Summons a spectral beast for 1 hour.
+Wand of Time – Increases Intelligence score to 19 while worn.
+Scroll of Fire – Summons a spectral beast for 1 hour.
+Wand of Shadows – Creates an aura of silence within 15 feet.
+Tome of Fire – Can be used to teleport up to 30 feet.
+Potion of the Void – Can be used to teleport up to 30 feet.
+Rod of the Magi – Adds +1 to attack and damage rolls.
+Tome of the Magi – Absorbs up to 20 points of magical damage.
+Potion of Fire – Absorbs up to 20 points of magical damage.
+Sword of the Magi – Adds +1 to attack and damage rolls.
+Shield of Light – Restores 1d8 hit points once per short rest.
+Helm of Healing – Emits a dim light in a 10-foot radius.
+Scroll of Speed – Allows the user to cast Fireball once per day.
+Rod of Fire – Adds +1 to attack and damage rolls.
+Armor of the Magi – Allows communication with animals.
+Sword of Speed – Provides resistance to cold damage.
+Gem of the Void – Creates an aura of silence within 15 feet.
+Boots of Invisibility – Can be used to teleport up to 30 feet.
+Rod of the Phoenix – Increases Intelligence score to 19 while worn.
+Blade of Vitality – Can be used to teleport up to 30 feet.
+Helm of the Void – Adds +1 to attack and damage rolls.
+Shield of the Void – Adds +1 to attack and damage rolls.
+Gem of Ice – Increases Intelligence score to 19 while worn.
+Sword of Invisibility – Provides resistance to cold damage.
+Staff of Speed – Increases Intelligence score to 19 while worn.
+Ring of Light – Allows the user to cast Fireball once per day.
+Cloak of Shadows – Creates an aura of silence within 15 feet.
+Staff of the Phoenix – Adds +1 to attack and damage rolls.
+Orb of Ice – Provides resistance to cold damage.
+Scroll of Time – Allows the user to cast Fireball once per day.
+Gem of the Phoenix – Increases movement speed by 10 feet.
+Orb of Healing – Provides resistance to cold damage.
+Armor of Fire – Can be used to teleport up to 30 feet.
+Shield of Giant Strength – Allows communication with animals.
+Shield of Vitality – Creates an aura of silence within 15 feet.
+Cape of the Magi – Provides resistance to cold damage.
+Staff of Giant Strength – Grants the wearer temporary invisibility during combat.
+Amulet of Invisibility – Provides resistance to cold damage.
+Wand of Giant Strength – Provides immunity to poison.
+Orb of the Ancients – Absorbs up to 20 points of magical damage.
+Rod of Fire – Increases movement speed by 10 feet.
+Scroll of Light – Grants the wearer temporary invisibility during combat.
+Scroll of the Magi – Absorbs up to 20 points of magical damage.
+Cloak of Fire – Allows communication with animals.
+Scroll of the Phoenix – Provides immunity to poison.
+Blade of Fire – Adds +1 to attack and damage rolls.
+Scroll of Light – Increases Intelligence score to 19 while worn.
+Belt of Shadows – Provides immunity to poison.
+Armor of Speed – Provides resistance to cold damage.
+Tome of Giant Strength – Increases Intelligence score to 19 while worn.
+Sword of the Magi – Can be used to teleport up to 30 feet.
+Shield of Shadows – Restores 1d8 hit points once per short rest.
+Staff of Light – Creates an aura of silence within 15 feet.
+Scroll of Light – Adds +1 to attack and damage rolls.
+Blade of Fire – Restores 1d8 hit points once per short rest.
+Cape of Vitality – Restores 1d8 hit points once per short rest.
+Ring of Time – Grants the wearer temporary invisibility during combat.
+Armor of Vitality – Provides resistance to cold damage.
+Shield of Vitality – Summons a spectral beast for 1 hour.
+Boots of Invisibility – Absorbs up to 20 points of magical damage.
+Amulet of Light – Provides immunity to poison.
+Potion of Invisibility – Increases Intelligence score to 19 while worn.
+Ring of Light – Summons a spectral beast for 1 hour.
+Helm of the Phoenix – Emits a dim light in a 10-foot radius.
+Armor of Time – Summons a spectral beast for 1 hour.
+Armor of Giant Strength – Adds +1 to attack and damage rolls.
+Gloves of Light – Allows the user to cast Fireball once per day.
+Rod of the Void – Adds +1 to attack and damage rolls.
+Shield of the Magi – Increases Intelligence score to 19 while worn.
+Shield of Speed – Increases movement speed by 10 feet.
+Orb of Light – Provides resistance to cold damage.
+Cape of the Phoenix – Allows the user to cast Fireball once per day.
+Gem of Invisibility – Restores 1d8 hit points once per short rest.
+Tome of the Ancients – Can be used to teleport up to 30 feet.
+Gloves of Invisibility – Provides resistance to cold damage.
+Scroll of the Phoenix – Provides immunity to poison.
+Helm of Vitality – Provides immunity to poison.
+Cape of Time – Can be used to teleport up to 30 feet.
+Potion of the Magi – Adds +1 to attack and damage rolls.
+Scroll of Invisibility – Allows the user to cast Fireball once per day.
+Wand of the Magi – Allows the user to cast Fireball once per day.
+Scroll of the Magi – Can be used to teleport up to 30 feet.
+Armor of Ice – Grants the wearer temporary invisibility during combat.
+Staff of Healing – Allows the user to cast Fireball once per day.
+Staff of the Magi – Can be used to teleport up to 30 feet.
+Belt of Giant Strength – Adds +1 to attack and damage rolls.
+Blade of Speed – Provides resistance to cold damage.
+Cape of Speed – Emits a dim light in a 10-foot radius.
+Helm of Speed – Absorbs up to 20 points of magical damage.
+Blade of Ice – Gives advantage on Wisdom saving throws.
+Staff of the Phoenix – Creates an aura of silence within 15 feet.
+Amulet of Speed – Adds +1 to attack and damage rolls.
+Belt of Healing – Provides immunity to poison.
+Belt of Fire – Provides resistance to cold damage.
+Boots of Speed – Adds +1 to attack and damage rolls.
+Gem of the Ancients – Creates an aura of silence within 15 feet.
+Scroll of Light – Can be used to teleport up to 30 feet.
+Staff of Shadows – Emits a dim light in a 10-foot radius.
+Amulet of the Phoenix – Grants the wearer temporary invisibility during combat.
+Rod of the Magi – Grants the wearer temporary invisibility during combat.
+Amulet of Invisibility – Restores 1d8 hit points once per short rest.
+Potion of Vitality – Increases movement speed by 10 feet.
+Cloak of Giant Strength – Absorbs up to 20 points of magical damage.
+Amulet of Speed – Provides immunity to poison.
+Gem of the Magi – Adds +1 to attack and damage rolls.
+Cloak of Speed – Creates an aura of silence within 15 feet.
+Wand of Healing – Can be used to teleport up to 30 feet.
+Helm of Light – Increases movement speed by 10 feet.
+Boots of Shadows – Emits a dim light in a 10-foot radius.
+Cloak of Vitality – Increases movement speed by 10 feet.
+Scroll of Vitality – Increases movement speed by 10 feet.
+Gem of the Magi – Gives advantage on Wisdom saving throws.
+Cloak of Shadows – Creates an aura of silence within 15 feet.
+Blade of Ice – Restores 1d8 hit points once per short rest.
+Armor of the Phoenix – Emits a dim light in a 10-foot radius.
+Shield of Fire – Allows the user to cast Fireball once per day.
+Armor of the Phoenix – Grants the wearer temporary invisibility during combat.
+Orb of Speed – Allows communication with animals.
+Boots of the Phoenix – Provides immunity to poison.
+Sword of the Magi – Absorbs up to 20 points of magical damage.
+Orb of Time – Provides immunity to poison.
+Staff of Ice – Grants the wearer temporary invisibility during combat.
+Belt of Shadows – Increases movement speed by 10 feet.
+Shield of Giant Strength – Grants the wearer temporary invisibility during combat.
+Blade of Speed – Allows communication with animals.
+Gloves of Light – Summons a spectral beast for 1 hour.
+Amulet of the Void – Absorbs up to 20 points of magical damage.
+Shield of Time – Can be used to teleport up to 30 feet.
+Helm of the Void – Absorbs up to 20 points of magical damage.
+Blade of the Magi – Provides immunity to poison.
+Orb of Ice – Adds +1 to attack and damage rolls.
+Wand of Ice – Summons a spectral beast for 1 hour.
+Ring of the Ancients – Grants the wearer temporary invisibility during combat.
+Blade of Fire – Provides immunity to poison.
+Belt of Light – Restores 1d8 hit points once per short rest.
+Ring of Healing – Restores 1d8 hit points once per short rest.
+Armor of the Magi – Restores 1d8 hit points once per short rest.
+Gem of Time – Provides immunity to poison.
+Orb of the Phoenix – Gives advantage on Wisdom saving throws.
+Boots of Vitality – Creates an aura of silence within 15 feet.
+Armor of Fire – Grants the wearer temporary invisibility during combat.
+Blade of the Magi – Creates an aura of silence within 15 feet.
+Armor of Ice – Allows the user to cast Fireball once per day.
+Potion of Fire – Allows the user to cast Fireball once per day.
+Belt of Time – Absorbs up to 20 points of magical damage.
+Gloves of Shadows – Absorbs up to 20 points of magical damage.
+Wand of Invisibility – Increases movement speed by 10 feet.
+Wand of the Magi – Absorbs up to 20 points of magical damage.
+Cape of Vitality – Can be used to teleport up to 30 feet.
+Staff of Vitality – Increases movement speed by 10 feet.
+Shield of Healing – Gives advantage on Wisdom saving throws.
+Armor of Ice – Increases movement speed by 10 feet.
+Armor of Ice – Allows the user to cast Fireball once per day.
+Ring of Healing – Adds +1 to attack and damage rolls.
+Armor of Fire – Adds +1 to attack and damage rolls.
+Staff of Fire – Allows the user to cast Fireball once per day.
+Rod of Ice – Creates an aura of silence within 15 feet.
+Orb of Vitality – Increases Intelligence score to 19 while worn.
+Cloak of the Phoenix – Increases Intelligence score to 19 while worn.
+Scroll of Speed – Increases Intelligence score to 19 while worn.
+Belt of Invisibility – Absorbs up to 20 points of magical damage.
+Boots of Vitality – Gives advantage on Wisdom saving throws.
+Gem of Invisibility – Provides immunity to poison.
+Rod of Light – Can be used to teleport up to 30 feet.
+Staff of Ice – Summons a spectral beast for 1 hour.
+Gloves of Ice – Gives advantage on Wisdom saving throws.
+Belt of Light – Summons a spectral beast for 1 hour.
+Armor of Healing – Allows communication with animals.
+Shield of Fire – Increases movement speed by 10 feet.
+Wand of Invisibility – Emits a dim light in a 10-foot radius.
+Staff of Invisibility – Provides resistance to cold damage.
+Amulet of Fire – Provides immunity to poison.
+Gloves of the Void – Restores 1d8 hit points once per short rest.
+Gem of Invisibility – Increases movement speed by 10 feet.
+Gem of Light – Summons a spectral beast for 1 hour.
+Shield of Ice – Provides resistance to cold damage.
+Staff of Speed – Increases Intelligence score to 19 while worn.
+Boots of Ice – Adds +1 to attack and damage rolls.
+Gem of Giant Strength – Gives advantage on Wisdom saving throws.
+Potion of the Phoenix – Grants the wearer temporary invisibility during combat.
+Orb of the Void – Emits a dim light in a 10-foot radius.
+Blade of Invisibility – Allows the user to cast Fireball once per day.
+Gem of Invisibility – Absorbs up to 20 points of magical damage.
+Armor of Light – Allows the user to cast Fireball once per day.
+Potion of Fire – Increases movement speed by 10 feet.
+Armor of Ice – Emits a dim light in a 10-foot radius.
+Helm of Invisibility – Gives advantage on Wisdom saving throws.
+Helm of the Ancients – Provides immunity to poison.
+Gem of the Magi – Adds +1 to attack and damage rolls.
+Scroll of Healing – Allows the user to cast Fireball once per day.
+Orb of Invisibility – Creates an aura of silence within 15 feet.
+Ring of Vitality – Creates an aura of silence within 15 feet.
+Wand of Healing – Creates an aura of silence within 15 feet.
+Shield of Giant Strength – Summons a spectral beast for 1 hour.
+Shield of Shadows – Increases Intelligence score to 19 while worn.
+Belt of Light – Emits a dim light in a 10-foot radius.
+Amulet of Ice – Increases Intelligence score to 19 while worn.
+Orb of Speed – Absorbs up to 20 points of magical damage.
+Sword of Invisibility – Summons a spectral beast for 1 hour.
+Scroll of the Void – Can be used to teleport up to 30 feet.
+Rod of Fire – Restores 1d8 hit points once per short rest.
+Gloves of the Ancients – Gives advantage on Wisdom saving throws.
+Belt of Ice – Grants the wearer temporary invisibility during combat.
+Scroll of Giant Strength – Provides immunity to poison.
+Sword of the Ancients – Provides resistance to cold damage.
+Tome of the Magi – Increases Intelligence score to 19 while worn.
+Tome of Time – Provides immunity to poison.
+Staff of Giant Strength – Can be used to teleport up to 30 feet.
+Belt of Light – Emits a dim light in a 10-foot radius.
+Cloak of the Phoenix – Gives advantage on Wisdom saving throws.
+Amulet of Fire – Provides resistance to cold damage.
+Orb of Vitality – Increases Intelligence score to 19 while worn.
+Ring of the Ancients – Increases Intelligence score to 19 while worn.
+Ring of Vitality – Summons a spectral beast for 1 hour.
+Ring of Speed – Creates an aura of silence within 15 feet.
+Rod of Giant Strength – Adds +1 to attack and damage rolls.
+Armor of Speed – Adds +1 to attack and damage rolls.
+Helm of the Magi – Provides immunity to poison.
+Gloves of Light – Allows communication with animals.
+Staff of the Ancients – Summons a spectral beast for 1 hour.
+Gloves of the Phoenix – Absorbs up to 20 points of magical damage.
+Blade of Fire – Summons a spectral beast for 1 hour.
+Orb of Shadows – Allows communication with animals.
+Helm of Light – Summons a spectral beast for 1 hour.
+Wand of the Void – Summons a spectral beast for 1 hour.
+Sword of Ice – Allows the user to cast Fireball once per day.
+Cape of the Ancients – Restores 1d8 hit points once per short rest.
+Potion of Speed – Grants the wearer temporary invisibility during combat.
+Wand of Light – Allows communication with animals.
+Shield of Light – Creates an aura of silence within 15 feet.
+Staff of Invisibility – Allows communication with animals.
+Ring of Light – Gives advantage on Wisdom saving throws.
+Wand of Vitality – Allows the user to cast Fireball once per day.
+Cape of Ice – Gives advantage on Wisdom saving throws.
+Sword of Ice – Creates an aura of silence within 15 feet.
+Staff of Giant Strength – Allows communication with animals.
+Staff of the Phoenix – Grants the wearer temporary invisibility during combat.
+Tome of Healing – Creates an aura of silence within 15 feet.
+Ring of Ice – Grants the wearer temporary invisibility during combat.
+Gem of Ice – Provides immunity to poison.
+Belt of Shadows – Provides immunity to poison.
+Sword of Giant Strength – Allows the user to cast Fireball once per day.
+Amulet of the Magi – Absorbs up to 20 points of magical damage.
+Wand of Fire – Summons a spectral beast for 1 hour.
+Armor of the Void – Increases Intelligence score to 19 while worn.
+Helm of Ice – Can be used to teleport up to 30 feet.
+Potion of the Ancients – Can be used to teleport up to 30 feet.
+Helm of Time – Absorbs up to 20 points of magical damage.
+Gem of the Ancients – Increases Intelligence score to 19 while worn.
+Staff of the Ancients – Provides resistance to cold damage.
+Rod of the Ancients – Provides resistance to cold damage.
+Shield of Light – Allows communication with animals.
+Potion of the Void – Summons a spectral beast for 1 hour.
+Gem of Ice – Provides resistance to cold damage.
+Sword of Time – Provides resistance to cold damage.
+Gem of Invisibility – Increases Intelligence score to 19 while worn.
+Cape of Healing – Adds +1 to attack and damage rolls.
+Belt of Shadows – Increases movement speed by 10 feet.
+Staff of the Ancients – Allows communication with animals.
+Orb of Fire – Summons a spectral beast for 1 hour.
+Ring of the Ancients – Absorbs up to 20 points of magical damage.
+Helm of the Void – Gives advantage on Wisdom saving throws.
+Armor of Speed – Grants the wearer temporary invisibility during combat.
+Rod of Light – Absorbs up to 20 points of magical damage.
+Cloak of Vitality – Grants the wearer temporary invisibility during combat.
+Sword of the Magi – Summons a spectral beast for 1 hour.
+Boots of Light – Adds +1 to attack and damage rolls.
+Rod of the Phoenix – Allows the user to cast Fireball once per day.
+Blade of Giant Strength – Restores 1d8 hit points once per short rest.
+Wand of Speed – Adds +1 to attack and damage rolls.
+Amulet of Speed – Increases Intelligence score to 19 while worn.
+Tome of Light – Summons a spectral beast for 1 hour.
+Rod of Light – Grants the wearer temporary invisibility during combat.
+Rod of Fire – Summons a spectral beast for 1 hour.
+Cape of Ice – Adds +1 to attack and damage rolls.
+Gloves of Vitality – Emits a dim light in a 10-foot radius.
+Tome of the Phoenix – Provides resistance to cold damage.
+Blade of Giant Strength – Restores 1d8 hit points once per short rest.
+Potion of Giant Strength – Summons a spectral beast for 1 hour.
+Amulet of the Ancients – Summons a spectral beast for 1 hour.
+Ring of Light – Provides immunity to poison.
+Ring of Ice – Provides immunity to poison.
+Tome of Healing – Gives advantage on Wisdom saving throws.
+Rod of Giant Strength – Allows communication with animals.
+Blade of Time – Increases movement speed by 10 feet.
+Boots of the Phoenix – Allows communication with animals.
+Armor of Invisibility – Restores 1d8 hit points once per short rest.
+Amulet of Invisibility – Provides resistance to cold damage.
+Helm of Giant Strength – Restores 1d8 hit points once per short rest.
+Cape of the Ancients – Allows communication with animals.
+Staff of Fire – Grants the wearer temporary invisibility during combat.
+Shield of Healing – Grants the wearer temporary invisibility during combat.
+Sword of Ice – Provides resistance to cold damage.
+Belt of Invisibility – Allows the user to cast Fireball once per day.
+Gem of the Phoenix – Increases Intelligence score to 19 while worn.
+Wand of Vitality – Provides resistance to cold damage.
+Shield of the Phoenix – Allows communication with animals.
+Ring of the Magi – Summons a spectral beast for 1 hour.
+Cape of Shadows – Increases Intelligence score to 19 while worn.
+Helm of Vitality – Restores 1d8 hit points once per short rest.
+Orb of Healing – Adds +1 to attack and damage rolls.
+Helm of Healing – Absorbs up to 20 points of magical damage.
+Shield of Invisibility – Increases Intelligence score to 19 while worn.
+Boots of Invisibility – Creates an aura of silence within 15 feet.
+Orb of Giant Strength – Absorbs up to 20 points of magical damage.
+Rod of Light – Creates an aura of silence within 15 feet.
+Staff of Shadows – Provides immunity to poison.
+Potion of Healing – Restores 1d8 hit points once per short rest.
+Rod of the Phoenix – Provides immunity to poison.
+Gem of Invisibility – Summons a spectral beast for 1 hour.
+Cloak of Speed – Increases movement speed by 10 feet.
+Armor of the Void – Absorbs up to 20 points of magical damage.
